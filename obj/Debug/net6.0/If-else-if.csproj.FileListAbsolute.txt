@@ -1,0 +1,15 @@
+C:\Users\uoral\Desktop\C#\If-else-if\bin\Debug\net6.0\If-else-if.exe
+C:\Users\uoral\Desktop\C#\If-else-if\bin\Debug\net6.0\If-else-if.deps.json
+C:\Users\uoral\Desktop\C#\If-else-if\bin\Debug\net6.0\If-else-if.runtimeconfig.json
+C:\Users\uoral\Desktop\C#\If-else-if\bin\Debug\net6.0\If-else-if.dll
+C:\Users\uoral\Desktop\C#\If-else-if\bin\Debug\net6.0\If-else-if.pdb
+C:\Users\uoral\Desktop\C#\If-else-if\obj\Debug\net6.0\If-else-if.csproj.AssemblyReference.cache
+C:\Users\uoral\Desktop\C#\If-else-if\obj\Debug\net6.0\If-else-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uoral\Desktop\C#\If-else-if\obj\Debug\net6.0\If-else-if.AssemblyInfoInputs.cache
+C:\Users\uoral\Desktop\C#\If-else-if\obj\Debug\net6.0\If-else-if.AssemblyInfo.cs
+C:\Users\uoral\Desktop\C#\If-else-if\obj\Debug\net6.0\If-else-if.csproj.CoreCompileInputs.cache
+C:\Users\uoral\Desktop\C#\If-else-if\obj\Debug\net6.0\If-else-if.dll
+C:\Users\uoral\Desktop\C#\If-else-if\obj\Debug\net6.0\refint\If-else-if.dll
+C:\Users\uoral\Desktop\C#\If-else-if\obj\Debug\net6.0\If-else-if.pdb
+C:\Users\uoral\Desktop\C#\If-else-if\obj\Debug\net6.0\If-else-if.genruntimeconfig.cache
+C:\Users\uoral\Desktop\C#\If-else-if\obj\Debug\net6.0\ref\If-else-if.dll
